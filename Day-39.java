@@ -1,8 +1,7 @@
 import java.util.HashMap;
 
 class Dcoder {
-    public static void main(String[] args) {
-        // Membuat objek HashMap dengan key bertipe String dan value bertipe Integer
+    public static void main(String[] args){
         HashMap<String, Integer> umur = new HashMap<>();
 
         umur.put("Jojo", 35);
