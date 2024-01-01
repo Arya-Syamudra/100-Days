@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class KelompokBilanganTanpaMethod {
+class Dcoder{
   public static void main(String[] args) {
     ArrayList<Integer> bilangan = new ArrayList<>();
     bilangan.add(5);
